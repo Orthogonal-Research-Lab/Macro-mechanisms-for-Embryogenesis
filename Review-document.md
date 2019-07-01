@@ -7,7 +7,7 @@ Laughlin (2015). [Critical waves and the length problem of biology](https://www.
 
 Mimar et.al (2019). [Turing patterns mediated by network topology in homogeneous active systems](https://arxiv.org/abs/1903.03845). _Physical Review E_, 99, 062303. doi:10.1103/PhysRevE.99.062303  
 
-Nissen et.al (2018). [Theoretical tool bridging cell polarities with development of robust morphologies](https://elifesciences.org/articles/38407). eLife, 7, e38407. doi:10.7554/eLife.38407.  
+Nissen et.al (2018). [Theoretical tool bridging cell polarities with development of robust morphologies](https://elifesciences.org/articles/38407). _eLife_, 7, e38407. doi:10.7554/eLife.38407.  
 
 Kiskowski et.al (2019). [Isolating and quantifying the role of developmental noise in generating phenotypic variation](https://www.biorxiv.org/content/10.1101/334961v1). _PLoS Computational Biology_, 15(4), e1006943. doi:10.1371/journal.pcbi.1006943  
 
