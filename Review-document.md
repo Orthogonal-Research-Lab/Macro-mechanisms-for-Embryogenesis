@@ -3,6 +3,8 @@
 Examples from the literature:  
 Alsous et.al (2018). [Entropic effects in cell lineage tree packings](https://www.researchgate.net/publication/326424607_Entropic_effects_in_cell_lineage_tree_packings). _Nature Physics_, 14, 1016-1021.doi:10.1038/s41567-018-0202-0.  
 
+Fickentscher, R. and Weiss, M. (2017). [Physical determinants of asymmetric cell divisions in the early development of _Caenorhabditis elegans_](https://www.nature.com/articles/s41598-017-09690-4). _Scientific Reports_, 7, 9369.  
+
 Kajita, A., Yamamura, M., Kohara, Y. (2002). [Physical modeling of the cellular arrangement in _C. elegans_ early embryo: effect of rounding and stiffening of the cells](https://www.ncbi.nlm.nih.gov/pubmed/14571391). _Genome Informatics_, 13, 224-232.
 
 Keller, R., Shook, D., and Skoglund, P. (2008). [The forces that shape embryos: physical aspects of convergent extension by cell intercalation](http://stacks.iop.org/%20PhysBio/5/015007). _Physical Biology_, 5, 015007. doi:10.1088/1478-3975/5/1/015007.
