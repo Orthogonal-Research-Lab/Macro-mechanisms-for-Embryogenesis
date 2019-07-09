@@ -5,6 +5,8 @@ Alsous et.al (2018). [Entropic effects in cell lineage tree packings](https://ww
 
 Laughlin (2015). [Critical waves and the length problem of biology](https://www.pnas.org/content/112/33/10371). _PNAS_, 112(33), 10371-10376. doi:10.1073/pnas.1422855112.  
 
+Keller, R., Shook, D., and Skoglund, P. (2008). [The forces that shape embryos: physical aspects of convergent extension by cell intercalation](http://stacks.iop.org/%20PhysBio/5/015007). _Physical Biology_, 5, 015007. doi:10.1088/1478-3975/5/1/015007.
+
 Mimar et.al (2019). [Turing patterns mediated by network topology in homogeneous active systems](https://arxiv.org/abs/1903.03845). _Physical Review E_, 99, 062303. doi:10.1103/PhysRevE.99.062303  
 
 Nissen et.al (2018). [Theoretical tool bridging cell polarities with development of robust morphologies](https://elifesciences.org/articles/38407). _eLife_, 7, e38407. doi:10.7554/eLife.38407.  
