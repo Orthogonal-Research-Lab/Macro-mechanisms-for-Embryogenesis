@@ -21,4 +21,6 @@ Nissen et.al (2018). [Theoretical tool bridging cell polarities with development
 
 Stoddard et.al (2017). [Avian egg shape: Form, function, and evolution](https://www.researchgate.net/publication/318263505_Avian_egg_shape_Form_function_and_evolution). _Science_, 356, 1249-1254. doi:10.1126/science.aaj1945.  
 
+van Essen, D.C. (1997). [A tension-based theory of morphogenesis and compact wiring in the central nervous system](https://www.nature.com/articles/385313a0). _Nature_, 385, 313-318.  
+
 Visualizations: https://vis.sciencemag.org/eggs/  
