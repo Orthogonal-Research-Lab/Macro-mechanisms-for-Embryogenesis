@@ -9,9 +9,9 @@ Kajita, A., Yamamura, M., Kohara, Y. (2002). [Physical modeling of the cellular 
 
 Keller, R., Shook, D., and Skoglund, P. (2008). [The forces that shape embryos: physical aspects of convergent extension by cell intercalation](http://stacks.iop.org/%20PhysBio/5/015007). _Physical Biology_, 5, 015007. doi:10.1088/1478-3975/5/1/015007.
 
-Kiskowski et.al (2019). [Isolating and quantifying the role of developmental noise in generating phenotypic variation](https://www.biorxiv.org/content/10.1101/334961v1). _PLoS Computational Biology_, 15(4), e1006943. doi:10.1371/journal.pcbi.1006943.  
+Kiskowski, M. et.al (2019). [Isolating and quantifying the role of developmental noise in generating phenotypic variation](https://www.biorxiv.org/content/10.1101/334961v1). _PLoS Computational Biology_, 15(4), e1006943. doi:10.1371/journal.pcbi.1006943.  
 
-Laughlin (2015). [Critical waves and the length problem of biology](https://www.pnas.org/content/112/33/10371). _PNAS_, 112(33), 10371-10376. doi:10.1073/pnas.1422855112.  
+Laughlin, R.B. (2015). [Critical waves and the length problem of biology](https://www.pnas.org/content/112/33/10371). _PNAS_, 112(33), 10371-10376. doi:10.1073/pnas.1422855112.  
 
 Mimar et.al (2019). [Turing patterns mediated by network topology in homogeneous active systems](https://arxiv.org/abs/1903.03845). _Physical Review E_, 99, 062303. doi:10.1103/PhysRevE.99.062303.  
 
